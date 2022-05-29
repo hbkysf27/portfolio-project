@@ -1,0 +1,10 @@
+Project Initialization
+
+install nodejs & vsc 
+install ES7+ React/Redux/React-Native snippets extension from vsc
+rename the project
+Creating our React App using npx create-react-app
+delete all the files inside public & src folder
+create folders inside src => assets,components
+inside components folder create folders => about,contact,experience,footer,header,nav,portfolio,services,testimonials,testimonial
+inside each folders created inside components create files relative to the folder name => with jsx and css extension example =>inside header folder=> header.css & Header.jsx
