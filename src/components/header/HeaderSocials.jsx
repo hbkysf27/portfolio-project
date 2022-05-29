@@ -3,6 +3,7 @@ import {FaLinkedin} from 'react-icons/fa'
 import {BsGithub} from 'react-icons/bs'
 import {ImTwitter} from 'react-icons/im'
 
+
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
